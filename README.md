@@ -1,5 +1,2 @@
-# myDemo
-<<<<<<< HEAD
-=======
-all mydemo
->>>>>>> origin/master
+##Welcome##
+this is my demo ^_^
